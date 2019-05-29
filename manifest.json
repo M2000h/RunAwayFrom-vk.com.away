@@ -1,0 +1,26 @@
+ {
+  "manifest_version": 2,
+  "name": "Run Away From vk.com/away",
+  "version": "1.0",
+  
+  "icons": {
+    "128": "logo.png"
+  },
+  "content_scripts": [
+    {
+      "matches": [ "*://*/*" ]
+    }
+  ],
+  "background": {
+    "scripts": ["background.js"]
+  },
+  "permissions": [
+	"tabs"
+  ],
+      "browser_action": {
+        "default_title": "Run Away From vk.com/away",
+        "default_icon": "logo.png",
+		"icons['128']": "logo.png",
+        "default_popup": "popup.html"
+    }
+}
