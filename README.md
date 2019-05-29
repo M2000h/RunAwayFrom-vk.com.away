@@ -1,1 +1,1 @@
-# RunAwayFrom-vk.com-away
+# Run Away From vk.com/away
