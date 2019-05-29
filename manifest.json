@@ -14,7 +14,6 @@
   "browser_action": {
     "default_title": "Run Away From vk.com/away",
     "default_icon": "logo.png",
-    "icons['128']": "logo.png",
-    "default_popup": "popup.html"
-    }
+    "icons['128']": "logo.png"
+  }
 }
