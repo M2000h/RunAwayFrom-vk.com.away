@@ -5,6 +5,8 @@ This Chrome extension makes redirect from vk.com safe links, change vk.com/away.
 ## For what?
 
 * Redirect to links from VK will be faster 
+* You will be able to open urls wich vk blocks
+* Your actions will be a little bit more private
 
 ## Built With
 
