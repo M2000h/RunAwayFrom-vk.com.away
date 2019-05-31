@@ -1,6 +1,6 @@
 # Run Away From vk.com/away
 
-This Chrome extension makes redirect from vk.com safe links, change vk.com/away.php? urls on url of the original website
+This Chrome extension makes straight redirect from vk.com safe links, change vk.com/away.php? url on url of the original website
 
 ## For what?
 
